@@ -5,11 +5,12 @@ person's mix-bus sends as a named preset, week to week, onto whatever bus they
 are on. It also does matrix buses, Watch (live drift checking), channel-strip
 presets, Planning Center plans, undo and weekly auto-archiving.
 
-It runs on Mac and Windows.
+It runs on Mac and Windows. **You need a license key to use it** — it comes
+with your invitation. (PatchBack is in private beta.)
 
 ## Mac: install in 2 minutes
 
-1. **Download:** [PatchBack for Mac (.dmg)](https://github.com/thejacks0n5/patchback-releases/releases/download/v0.22.0/PatchBack-0.22.0-universal.dmg)
+1. **Download:** [PatchBack for Mac (.dmg)](https://github.com/thejacks0n5/patchback-releases/releases/download/v0.23.0/PatchBack-0.23.0-universal.dmg)
    — one download for Apple Silicon and Intel, signed and notarized by Apple.
    (Newest version is always on the [releases page](../../releases/latest).)
 2. **Open the .dmg** and drag **PatchBack** into **Applications**.
@@ -17,6 +18,9 @@ It runs on Mac and Windows.
 4. macOS asks to allow **Local Network** access → click **Allow**. Without it
    PatchBack can't reach the console. (If you clicked Don't Allow: System
    Settings → Privacy & Security → Local Network → turn PatchBack on.)
+5. **Paste your license key** when PatchBack asks, and press **Activate**. The
+   key came with your download link (it starts `PB1.`). Copy the whole thing.
+   It's checked on this Mac, so no internet is needed at the desk.
 
 ## Before you connect
 
